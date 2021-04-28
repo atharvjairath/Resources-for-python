@@ -20,3 +20,13 @@ Installing both can create a mess (Presonal Experince🙂).
 - [Python for Mac](https://www.youtube.com/watch?v=TgA4ObrowRg&ab_channel=AutomationStepbyStep-RaghavPal)
 
 ### Python through Anaconda
+
+
+
+
+
+
+
+## LICENSE
+
+[MIT LICENSE](http://www.tldrlegal.com/license/mit-license)
