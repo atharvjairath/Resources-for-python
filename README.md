@@ -27,6 +27,6 @@ Installing both can create a mess (Presonal Experince🙂).
 
 
 
-## LICENSE
+## License
 
 [MIT LICENSE](http://www.tldrlegal.com/license/mit-license)
