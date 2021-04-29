@@ -36,16 +36,22 @@ Some of the best Youtube Videos for Basics of Programming in python are:
 - [Python Tutorial - Python for Beginners \[Full Course\]](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
 - [Learn Python - Full Course for Beginners \[Tutorial\]](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
 - [Python Tutorials - Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
--[Learn Python from Google Engineers](https://developers.google.com/edu/python/)
+- [Learn Python from Google Engineers](https://developers.google.com/edu/python/)
 
 ### Books
 - [Python Notes for professionals](https://books.goalkicker.com/PythonBook/)
 
 
 ## 🤖Python for Machine Learning
+- [Practical Machine Learning](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 
 ## 💹 Python for Data Science
+- [Python for Data Science - Course for Beginners](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
+- [Data Analysis with Python Course](Data Analysis with Python Course)
+- [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+- [Matplotlib Tutorial](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+- [Numpy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
 
 
@@ -72,6 +78,8 @@ Some of the best Youtube Videos for Basics of Programming in python are:
 - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 - [Writing Faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 - [When Python Practices Go Wrong](https://www.youtube.com/watch?v=S0No2zSJmks)
+
+_Anything else you need, find here : [Awesome Python](https://awesome-python.com/)_
 
 
 ## License
