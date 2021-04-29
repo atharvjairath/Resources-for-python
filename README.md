@@ -84,12 +84,7 @@ Some of the best Youtube Videos for Basics of Programming in python are:
 
 _Anything else you need, find here : [Awesome Python](https://awesome-python.com/)_
 
-## (Feel Free to add More Python Use cases along with resources)
-
-
-## License
-
-[MIT LICENSE](http://www.tldrlegal.com/license/mit-license)
+### (Feel Free to add More Python Use cases along with resources)
 
 ## Contributors ✨
 
@@ -110,3 +105,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+## License
+
+[MIT LICENSE](http://www.tldrlegal.com/license/mit-license)
