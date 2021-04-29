@@ -25,9 +25,28 @@ Installing both can create a mess (Presonal Experince🙂).
   - [Python for Mac](https://www.youtube.com/watch?v=V6ZAv7hBH6Y&ab_channel=JustUnderstandingData) 
 
 
+##  👶Introduction to Python
+
+Let's first understand, What is Python? and Why Python is so popular?
+
+
+- [What is Python? and Why Python is so popular?](https://www.youtube.com/watch?v=Y8Tko2YC5hA&ab_channel=ProgrammingwithMosh)
+
+Now we got a general idea so, let's start learning the basics.
+Some of the best Youtube Videos for Basics of Programming in python are:
+
+- [Python Tutorial - Python for Beginners \[Full Course\]](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
+- [Learn Python - Full Course for Beginners \[Tutorial\]](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
+
+
+## 🤖Python for Machine Learning
 
 
 
+## 🌐Python for Web Development
+
+
+## ✔️ Python for Automation and Scraping
 
 
 ## License
