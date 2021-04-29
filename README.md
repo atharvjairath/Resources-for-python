@@ -13,13 +13,16 @@ Installing both can create a mess (Presonal Experince🙂).
 *I personally like to use [Jupyter Notebook](https://jupyter.org/) (Anaconda) for Python.*
 
 
-### Python (latest)
+### Python (Latest)
 
 
 - [Python for Windows](https://www.youtube.com/watch?v=UvcQlPZ8ecA&ab_channel=ProgrammingKnowledge2)
 - [Python for Mac](https://www.youtube.com/watch?v=TgA4ObrowRg&ab_channel=AutomationStepbyStep-RaghavPal)
 
-### Python through Anaconda
+### Python (Anaconda)
+
+  - [Python for Windows](https://www.youtube.com/watch?v=5mDYijMfSzs&ab_channel=ProgrammingKnowledge)
+  - [Python for Mac](https://www.youtube.com/watch?v=V6ZAv7hBH6Y&ab_channel=JustUnderstandingData) 
 
 
 
