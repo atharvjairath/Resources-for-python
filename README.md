@@ -42,7 +42,7 @@ Some of the best Youtube Videos for Basics of Programming in python are:
 - [Learn Python from Google Engineers](https://developers.google.com/edu/python/)
 
 ### Docs:
-One of the best easy to ready docs to understand and know about all the inbuilt functions as well as Python in general.
+An amazing resource for learning built-in functions and other concepts of python for all proficiency levels.
 
 - [Programiz-Python](https://www.programiz.com/python-programming)
 
