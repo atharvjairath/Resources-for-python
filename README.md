@@ -51,7 +51,21 @@ An amazing resource for learning built-in functions and other concepts of python
 
 
 ## 🤖Python for Machine Learning
-- [Practical Machine Learning](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
+Before starting your machine learning journey, it's important to understand and know about **Numpy** and **Pandas**. Two of the most Important Libraries offered by Python which makes Machine Learning Possible.
+- [Numpy Tutorial - FreeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+- [Numpy Tutorial - Keith Galli](https://www.youtube.com/watch?v=GB9ByFAIAH4&ab_channel=KeithGalli)
+
+Now for **Pandas**.
+- [Pandas Tutorial - Corey Schafer](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
+- [Pandas Tutorial - Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg&ab_channel=KeithGalli)
+
+Machine Learning :
+
+- [Practical Machine Learning - Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- [Introduction to Machine Learning by Andrew Ng - Coursera](https://www.coursera.org/learn/machine-learning)
+- [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&ab_channel=freeCodeCamp.org)
+
 
 
 ## 💹 Python for Data Science
