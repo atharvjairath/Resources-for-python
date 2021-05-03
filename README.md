@@ -122,9 +122,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /><a href="#content-dev117uday" title="Content">🖋</a></td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://chaudharypraveen98.github.io/home/"><img src="https://avatars.githubusercontent.com/u/43620425?v=4" width="100px;" alt=""/><br /><sub><b>Praveen Chaudhary</b></sub></a><br /><a href="#content-chaudharypraveen98" title="Content">🖋</a></td>
-  </tr>
 </table>
 
 <!-- markdownlint-restore -->
