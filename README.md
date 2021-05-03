@@ -1,6 +1,6 @@
 # 🐍Python Resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 👋 Hi,
@@ -121,6 +121,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /><a href="#content-dev117uday" title="Content">🖋</a></td>
+    <td align="center"><a href="https://chaudharypraveen98.github.io/home/"><img src="https://avatars.githubusercontent.com/u/43620425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Praveen Chaudhary</b></sub></a><br /><a href="#content-chaudharypraveen98" title="Content">🖋</a></td>
   </tr>
 </table>
 
