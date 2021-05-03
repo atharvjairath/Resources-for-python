@@ -45,6 +45,7 @@ Some of the best Youtube Videos for Basics of Programming in python are:
 An amazing resource for learning built-in functions and other concepts of python for all proficiency levels.
 
 - [Programiz-Python](https://www.programiz.com/python-programming)
+- [Real Python](https://realpython.com/)
 
 ### Books
 - [Python Notes for professionals](https://books.goalkicker.com/PythonBook/)
@@ -87,10 +88,15 @@ Machine Learning :
 ## ✔️ Python for Automation and Scraping
 - [Web scrapping in Python](https://www.youtube.com/watch?v=XVv6mJpFOb0)
 - [Why learn Python as a DevOps Engineer](https://www.youtube.com/watch?v=6u5NE1GiQDk)
+- [Should I use Selenium, Beautiful Soup or Scrapy? ](https://www.youtube.com/watch?v=zucvHSQsKHA)
 
 ## 🎮 Python for Game Dev
 - [Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc)
 - [Pygame Tutorial for Beginners](https://www.youtube.com/watch?v=FfWpgLFMI7w)
+
+## 📝 Python for Testing
+- [Acceptance Testing with Robot framework](https://www.youtube.com/playlist?list=PLUDwpEzHYYLsCHiiihnwl3L0xPspL7BPG)
+- [Unit and Functional Testing Using Pytest](https://www.youtube.com/watch?v=byaxg00Gf9I)
 
 ## 🧔 Know More about Guido van Rossum : Creator of Python
 - [Lex Fridman Podcast](https://www.youtube.com/watch?v=ghwaIiE3Nd8)
