@@ -71,7 +71,7 @@ Machine Learning :
 
 ## 💹 Python for Data Science
 - [Python for Data Science - Course for Beginners](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
-- [Data Analysis with Python Course](Data Analysis with Python Course)
+- [Data Analysis with Python Course](https://www.youtube.com/watch?v=GPVsHOlRBBI&ab_channel=freeCodeCamp.org)
 - [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 - [Matplotlib Tutorial](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 - [Numpy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)
