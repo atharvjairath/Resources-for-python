@@ -80,13 +80,9 @@ Machine Learning :
 Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software.
 We will start by What is NLP and basics of NLP.
 - [Natural Language Processing (NLP) Tutorial with Python & NLTK](https://www.youtube.com/watch?v=X2vAabgKiuM)
-A Great Playlist to cover NLP :
-- [Complete Road Map To Prepare NLP](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
-
+- [Complete Road Map To Prepare NLP - **Recommended**](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [Natural Language Processing Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing?)
-
-
 
 ## 🌐Python for Web Development
 
