@@ -81,6 +81,7 @@ Natural Language Processing, or NLP for short, is broadly defined as the automat
 We will start by What is NLP and basics of NLP.
 - [Natural Language Processing (NLP) Tutorial with Python & NLTK](https://www.youtube.com/watch?v=X2vAabgKiuM)
 - [Complete Road Map To Prepare NLP - **Recommended**](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
+- [Lecture 01 — Course Introduction — [ NLP || Dan Jurafsky || Stanford University ]](https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [Natural Language Processing Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing?)
 
