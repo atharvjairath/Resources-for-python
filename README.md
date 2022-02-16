@@ -85,6 +85,15 @@ We will start by What is NLP and basics of NLP.
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [Natural Language Processing Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing?)
 
+
+## 📚 Python for Computer Vision
+
+- Start with the basics of OpenCV: [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+- Then we move to advance: [Advanced Computer Vision with Python - Full Course](https://www.youtube.com/watch?v=01sAkU_NvOY)
+- [Natural Language Processing -- Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
+- [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- [Natural Language Processing Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing?)
+
 ## 🌐Python for Web Development
 
 - [Flask Tutorials - Corey Schafer](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
