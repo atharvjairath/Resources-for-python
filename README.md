@@ -62,7 +62,8 @@ Now for **Pandas**.
 - [Pandas Tutorial - Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg&ab_channel=KeithGalli)
 
 Machine Learning :
-- [Stanford CS229: Machine Learning | Summer 2019](https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
+- [Stanford CS229: Machine Learning - Andrew Ng (Autumn 2018) (Beginner)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Stanford CS229: Machine Learning | Summer 2019 (For MATHS of ML)](https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 - [Practical Machine Learning - Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [Introduction to Machine Learning by Andrew Ng - Coursera](https://www.coursera.org/learn/machine-learning)
 - [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&ab_channel=freeCodeCamp.org)
